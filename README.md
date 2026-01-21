@@ -32,7 +32,6 @@ It helps the model fit complex patterns in the data.
 ## Technologies & Libraries Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 
 ---
@@ -65,15 +64,15 @@ These metrics help evaluate the accuracy and performance of the model.
 1. Import required libraries
 2. Load dataset
 3. Perform data preprocessing
-4. Train Linear Regression model
+4. Train model 
 5. Predict house prices
 6. Evaluate model performance
 
 ---
 
 ## Conclusion
-The Linear Regression model successfully predicts house prices based on area and number of rooms.  
-This project demonstrates a complete *end-to-end machine learning workflow* suitable for beginners.
+The Linear Regression & Polynomial Regression model successfully predicts house prices based on area and number of rooms.  
+This project demonstrates a complete *end-to-end machine learning workflow*.
 
 ---
 
